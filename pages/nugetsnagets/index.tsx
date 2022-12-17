@@ -29,8 +29,8 @@ const Card = styled.div`
   flex-direction: column;
   gap: 8px;
   padding: 8px;
-  height: 80vh;
-  width: 60vh;
+  height: 60vh;
+  width: 40vh;
   background-color: white;
 `;
 
