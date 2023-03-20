@@ -31,6 +31,7 @@ const Karttapeli: NextPage = () => {
 
   const [circles, setCircles] = React.useState<Array<string>>();
   const [question, setQuestion] = React.useState<string>()
+  const [answer, setAnswer] = React.useState<string>()
 
   const [score, setScore] = React.useState<number>(0)
   const [round, setRound] = React.useState<number>(0)
@@ -50,7 +51,7 @@ const Karttapeli: NextPage = () => {
 
   return (
     <App>
-      <Question>{`${question} - ${score}/${round}`}</Question>
+      <Question>{`Missä on ${question}? Valitsemasi oli ${answer} - ${score}/${round}`}</Question>
       <Map onClick={(e: any) => {
         const a = e.target;
         if (a.tagName === 'circle') {
@@ -59,6 +60,7 @@ const Karttapeli: NextPage = () => {
           if (a.id === question) {
             setScore(score + 1);
           }
+          setAnswer(a.id)
           setNextQuestion();
         }
       }} />
