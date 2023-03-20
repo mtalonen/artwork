@@ -65,7 +65,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="jaameri"
+        id="jäämeri"
         cx={130.56728}
         cy={64.351013}
         r={1.5}
@@ -113,7 +113,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="aaninen"
+        id="ääninen"
         cx={201.44664}
         cy={171.91357}
         r={1.5}
@@ -161,7 +161,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="selkameri"
+        id="selkämeri"
         cx={121.56144}
         cy={193.85419}
         r={1.5}
@@ -257,7 +257,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="perameri"
+        id="perämeri"
         cx={136.38193}
         cy={150.87082}
         r={1.5}
@@ -269,7 +269,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="vattern"
+        id="vättern"
         cx={86.578537}
         cy={227.0938}
         r={1.5}
@@ -281,7 +281,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="vanern"
+        id="vänern"
         cx={81.138229}
         cy={216.36862}
         r={1.5}
@@ -293,7 +293,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="hjalmaren"
+        id="hjälmaren"
         cx={96.52652}
         cy={215.90231}
         r={1.5}
@@ -305,7 +305,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="malaren"
+        id="mälaren"
         cx={105.07557}
         cy={203.46733}
         r={1.5}
@@ -317,7 +317,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="peipsijarvi"
+        id="peipsijärvi"
         cx={169.03798}
         cy={222.66383}
         r={1.5}
@@ -329,7 +329,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="kemijarvi"
+        id="kemijärvi"
         cx={147.10191}
         cy={132.25764}
         r={1.5}
@@ -365,7 +365,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="kokemaenjoki"
+        id="kokemäenjoki"
         cx={136.06947}
         cy={192.12393}
         r={1.5}
@@ -425,7 +425,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="gotajoki"
+        id="götajoki"
         cx={72.122871}
         cy={226.3166}
         r={1.5}
@@ -509,7 +509,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="vatnaj__kull"
+        id="vatnajökull"
         cx={66.52713}
         cy={58.444397}
         r={1.5}
@@ -653,7 +653,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="oolanti"
+        id="öölanti"
         cx={99.790703}
         cy={246.05713}
         r={1.5}
@@ -701,7 +701,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="sjallanti"
+        id="själlanti"
         cx={62.019455}
         cy={261.4454}
         r={1.5}
@@ -725,7 +725,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="farsaaret"
+        id="färsaaret"
         cx={7.4609871}
         cy={136.00757}
         r={1.5}
@@ -749,7 +749,7 @@ const SvgKartta = (props) => (
           fillRule: "evenodd",
           strokeWidth: 3.19987,
         }}
-        id="trondheiminvuono-3"
+        id="trondheiminvuono"
         cx={67.699425}
         cy={160.36429}
         r={1.5}
